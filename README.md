@@ -24,3 +24,5 @@ where the format is
 name of book|chapter number|verse number|text of verse
 where chapter number/verse number is zeropadded to 3 places so 123 is unchanged but 12 becomes 012 and 1 becomes 001.
 The names are in double quotes so "Genesis"|"001"|"001"|"In the beginning God..." not 'Genesis'|'001'|'001'|'In the beginning God...'. The delimiter is |, not "," comma. DSV is delimiter-separated value, not CSV comma-separated value because | pipe is easier to parse and separate than comma. Comma has issues.
+
+The files are available in export-of-translations.
