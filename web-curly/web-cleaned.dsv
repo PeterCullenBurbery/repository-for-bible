@@ -1,0 +1,727 @@
+ROW_NUMBER|BOOK_NAME|CHAPTER_NUMBER|VERSE_NUMBER|TEXT_OF_VERSE
+001|Genesis|001|001|In the beginning God created the heavens and the earth.
+002|Genesis|005|002|He created them male and female, and blessed them, and called their name Adam, in the day when they were created.
+003|Genesis|012|007|"Yahweh appeared to Abram and said, ""I will give this land to your seed."" He built an altar there to Yahweh, who appeared to him."
+004|Genesis|016|014|Therefore the well was called Beer Lahai Roi. Behold, it is between Kadesh and Bered.
+005|Genesis|017|019|"God said, ""No, but Sarah, your wife, will bear you a son. You shall call his name Isaac. I will establish my covenant with him for an everlasting covenant for his seed after him."
+006|Genesis|019|022|"Hurry, escape there, for I can't do anything until you get there."" Therefore the name of the city was called Zoar."
+007|Genesis|021|003|Abraham called his son who was born to him, whom Sarah bore to him, Isaac.
+008|Genesis|021|031|Therefore he called that place Beersheba, because they both swore there.
+009|Genesis|022|014|"Abraham called the name of that place Yahweh Will Provide. As it is said to this day, ""On Yahweh's mountain, it will be provided."""
+010|Genesis|024|007|Yahweh, the God of heaven, who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your seed.' He will send his angel before you, and you shall take a wife for my son from there.
+011|Genesis|026|033|He called it Shibah. Therefore the name of the city is Beersheba to this day.
+012|Genesis|030|024|"She named him Joseph, saying, ""May Yahweh add another son to me."""
+013|Genesis|031|019|Now Laban had gone to shear his sheep:  and Rachel stole the teraphim that were her father's.
+014|Genesis|031|047|Laban called it Jegar Sahadutha, but Jacob called it Galeed.
+015|Genesis|032|030|"Jacob called the name of the place Peniel: for, he said, ""I have seen God face to face, and my life is preserved."""
+016|Genesis|033|017|Jacob traveled to Succoth, built himself a house, and made shelters for his livestock.  Therefore the name of the place is called Succoth.
+017|Genesis|033|020|He erected an altar there, and called it El Elohe Israel.
+018|Genesis|034|017|"But if you will not listen to us, to be circumcised, then we will take our sister, and we will be gone."""
+019|Genesis|035|018|It happened, as her soul was departing (for she died), that she named him Benoni, but his father named him Benjamin.
+020|Genesis|037|035|"All his sons and all his daughters rose up to comfort him, but he refused to be comforted.  He said, ""For I will go down to Sheol to my son mourning."" His father wept for him."
+021|Genesis|038|029|"It happened, as he drew back his hand, that behold, his brother came out, and she said, ""Why have you made a breach for yourself?"" Therefore his name was called Perez."
+022|Genesis|038|030|Afterward his brother came out, that had the scarlet thread on his hand, and his name was called Zerah.
+023|Genesis|041|051|"Joseph called the name of the firstborn Manasseh, ""For,"" he said, ""God has made me forget all my toil, and all my father's house."""
+024|Genesis|041|052|"The name of the second, he called Ephraim: ""For God has made me fruitful in the land of my affliction."""
+025|Exodus|002|010|"The child grew, and she brought him to Pharaoh's daughter, and he became her son.  She named him Moses, and said, ""Because I drew him out of the water."""
+026|Exodus|002|022|"She bore a son, and he named him Gershom, for he said, ""I have lived as a foreigner in a foreign land."""
+027|Exodus|010|019|Yahweh turned an exceeding strong west wind, which took up the locusts, and drove them into the Red Sea. There remained not one locust in all the borders of Egypt.
+028|Exodus|013|018|but God led the people around by the way of the wilderness by the Red Sea; and the children of Israel went up armed out of the land of Egypt.
+029|Exodus|015|004|He has cast Pharaoh's chariots and his army into the sea. His chosen captains are sunk in the Red Sea.
+030|Exodus|015|022|Moses led Israel onward from the Red Sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
+031|Exodus|015|023|When they came to Marah, they couldn't drink from the waters of Marah, for they were bitter.  Therefore the name of it was called Marah.
+032|Exodus|016|031|The house of Israel called the name of it Manna, and it was like coriander seed, white; and its taste was like wafers with honey.
+033|Exodus|017|007|"He called the name of the place Massah, and Meribah, because the children of Israel quarreled, and because they tested Yahweh, saying, ""Is Yahweh among us, or not?"""
+034|Exodus|017|015|Moses built an altar, and called the name of it Yahweh our Banner.
+035|Exodus|018|003|"and her two sons.  The name of one son was Gershom, for Moses said, ""I have lived as a foreigner in a foreign land""."
+036|Exodus|018|004|"The name of the other was Eliezer, for he said, ""My father's God was my help and delivered me from Pharaoh's sword."""
+037|Exodus|020|001|God spoke all these words, saying,
+038|Exodus|023|031|I will set your border from the Red Sea even to the sea of the Philistines, and from the wilderness to the River; for I will deliver the inhabitants of the land into your hand, and you shall drive them out before you.
+039|Exodus|024|010|They saw the God of Israel.  Under his feet was like a paved work of sapphire stone, like the skies for clearness.
+040|Exodus|028|016|It shall be square and folded double; a span shall be its length of it, and a span its breadth.
+041|Exodus|028|018|and the second row a turquoise, a sapphire, and an emerald;
+042|Exodus|039|011|and the second row, a turquoise, a sapphire, and an emerald;
+043|Leviticus|019|016|"""'You shall not go up and down as a slanderer among your people; neither shall you stand against the life of your neighbor.  I am Yahweh."
+044|Leviticus|019|023|"""'When you come into the land, and have planted all kinds of trees for food, then you shall count their fruit as forbidden. Three years shall they be forbidden to you. It shall not be eaten."
+045|Numbers|014|025|Now the Amalekite and the Canaanite dwell in the valley: tomorrow turn you, and get you into the wilderness by the way to the Red Sea.
+046|Numbers|015|038|Speak to the children of Israel, and tell them that they should make them fringes in the borders of their garments throughout their generations, and that they put on the fringe of each border a cord of blue:
+047|Numbers|015|039|and it shall be to you for a fringe, that you may look on it, and remember all the commandments of Yahweh, and do them; and that you not follow after your own heart and your own eyes, after which you use to play the prostitute;
+048|Numbers|021|004|They traveled from Mount Hor by the way to the Red Sea, to compass the land of Edom:  and the soul of the people was much discouraged because of the way.
+049|Numbers|033|010|They traveled from Elim, and encamped by the Red Sea.
+050|Numbers|033|011|They traveled from the Red Sea, and encamped in the wilderness of Sin.
+051|Deuteronomy|001|040|But as for you, turn you, and take your journey into the wilderness by the way to the Red Sea.
+052|Deuteronomy|002|001|Then we turned, and took our journey into the wilderness by the way to the Red Sea, as Yahweh spoke to me; and we compassed Mount Seir many days.
+053|Deuteronomy|011|004|and what he did to the army of Egypt, to their horses, and to their chariots; how he made the water of the Red Sea to overflow them as they pursued after you, and how Yahweh has destroyed them to this day;
+054|Deuteronomy|022|012|You shall make yourselves fringes on the four borders of your cloak, with which you cover yourself.
+055|Deuteronomy|033|016|for the precious things of the earth and its fullness, the good will of him who lived in the bush. Let [the blessing] come on the head of Joseph, On the crown of the head of him who was separate from his brothers.
+056|Joshua|002|010|For we have heard how Yahweh dried up the water of the Red Sea before you, when you came out of Egypt; and what you did to the two kings of the Amorites, who were beyond the Jordan, to Sihon and to Og, whom you utterly destroyed.
+057|Joshua|004|023|For Yahweh your God dried up the waters of the Jordan from before you, until you had passed over, as Yahweh your God did to the Red Sea, which he dried up from before us, until we had passed over;
+058|Joshua|005|009|"Yahweh said to Joshua, ""Today I have rolled away the reproach of Egypt from off you.""  Therefore the name of that place was called Gilgal, to this day."
+059|Joshua|024|006|I brought your fathers out of Egypt:  and you came to the sea; and the Egyptians pursued after your fathers with chariots and with horsemen to the Red Sea.
+060|Judges|006|024|Then Gideon built an altar there to Yahweh, and called it Yahweh is Peace: to this day it is still in Ophrah of the Abiezrites.
+061|Judges|011|016|but when they came up from Egypt, and Israel went through the wilderness to the Red Sea, and came to Kadesh;
+062|Samuel 1|025|022|God do so to the enemies of David, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.
+063|Samuel 1|025|034|For in very deed, as Yahweh, the God of Israel, lives, who has withheld me from hurting you, except you had hurried and come to meet me, surely there wouldn't have been left to Nabal by the morning light so much as one who urinates on a wall.
+064|Kings 1|009|026|King Solomon made a navy of ships in Ezion Geber, which is beside Eloth, on the shore of the Red Sea, in the land of Edom.
+065|Kings 1|014|010|therefore, behold, I will bring evil on the house of Jeroboam, and will cut off from Jeroboam everyone who urinates on a wall, him who is shut up and him who is left at large in Israel, and will utterly sweep away the house of Jeroboam, as a man sweeps away dung, until it be all gone.
+066|Kings 1|016|011|It happened, when he began to reign, as soon as he sat on his throne, that he struck all the house of Baasha: he didn't leave him a single one who urinates on a wall, neither of his relatives, nor of his friends.
+067|Kings 1|021|021|Behold, I will bring evil on you, and will utterly sweep you away and will cut off from Ahab everyone who urinates against a wall, and him who is shut up and him who is left at large in Israel:
+068|Kings 2|009|008|For the whole house of Ahab shall perish; and I will cut off from Ahab everyone who urinates against a wall, and him who is shut up and him who is left at large in Israel.
+069|Nehemiah|009|009|You saw the affliction of our fathers in Egypt, and heard their cry by the Red Sea,
+070|Esther|009|026|"Therefore they called these days ""Purim,"" from the word ""Pur."" Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come to them,"
+071|Job|026|006|Sheol is naked before God, and Abaddon has no covering.
+072|Job|028|016|It can't be valued with the gold of Ophir, with the precious onyx, or the sapphire.
+073|Job|041|001|"""Can you draw out Leviathan with a fishhook, or press down his tongue with a cord?"
+074|Job|042|011|Then came there to him all his brothers, and all his sisters, and all those who had been of his acquaintance before, and ate bread with him in his house.  They comforted him, and consoled him concerning all the evil that Yahweh had brought on him. Everyone also gave him a piece of money, and everyone a ring of gold.
+075|Psalms|002|002|The kings of the earth take a stand, and the rulers take counsel together, against Yahweh, and against his Anointed, saying,
+076|Psalms|002|012|Give sincere homage, lest he be angry, and you perish in the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him.
+077|Psalms|008|005|For you have made him a little lower than God, and crowned him with glory and honor.
+078|Psalms|022|016|For dogs have surrounded me.  A company of evil-doers have enclosed me.  Like a lion, they pin my hands and feet.
+079|Psalms|087|004|"I will record Rahab and Babylon among those who acknowledge me.  Behold, Philistia, Tyre, and also Ethiopia:  ""This one was born there."""
+080|Psalms|104|004|He makes his messengers winds; his servants flames of fire.
+081|Psalms|106|007|Our fathers didn't understand your wonders in Egypt.  They didn't remember the multitude of your loving kindnesses, but were rebellious at the sea, even at the Red Sea.
+082|Psalms|106|009|He rebuked the Red Sea also, and it was dried up; so he led them through the depths, as through a desert.
+083|Psalms|106|022|Wondrous works in the land of Ham, and awesome things by the Red Sea.
+084|Psalms|111|001|Praise Yah! I will give thanks to Yahweh with my whole heart, in the council of the upright, and in the congregation.
+085|Psalms|112|001|Praise Yah! Blessed is the man who fears Yahweh, who delights greatly in his commandments.
+086|Psalms|136|013|To him who divided the Red Sea apart; for his loving kindness endures forever;
+087|Psalms|136|015|But overthrew Pharaoh and his army in the Red Sea; for his loving kindness endures forever:
+088|Psalms|145|013|Your kingdom is an everlasting kingdom.  Your dominion endures throughout all generations.  Yahweh is faithful in all his words, and loving in all his deeds.
+089|Proverbs|031|010|Who can find a worthy woman?  For her price is far above rubies.
+090|Isaiah|005|010|"For ten acres of vineyard shall yield one bath, and a homer of seed shall yield an ephah."""
+091|Isaiah|005|014|Therefore Sheol has enlarged its desire, and opened its mouth without measure; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it.
+092|Isaiah|007|014|Therefore the Lord himself will give you a sign. Behold, the virgin will conceive, and bear a son, and shall call his name Immanuel.
+093|Isaiah|008|001|"Yahweh said to me, ""Take a large tablet, and write on it with a man's pen, 'For Maher Shalal Hash Baz;'"
+094|Isaiah|029|002|then I will distress Ariel, and there will be mourning and lamentation.  She shall be to me as an altar hearth.
+095|Isaiah|034|014|The wild animals of the desert will meet with the wolves, and the wild goat will cry to his fellow.  Yes, the night creature shall settle there, and shall find herself a place of rest.
+096|Isaiah|045|005|I am Yahweh, and there is none else.  Besides me, there is no God. I will strengthen you, though you have not known me;
+097|Isaiah|053|011|After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities.
+098|Jeremiah|049|021|The earth trembles at the noise of their fall; there is a cry, the noise which is heard in the Red Sea.
+099|Ezekiel|001|026|Above the expanse that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and on the likeness of the throne was a likeness as the appearance of a man on it above.
+100|Ezekiel|010|001|Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire stone, as the appearance of the likeness of a throne.
+101|Ezekiel|028|013|You were in Eden, the garden of God; every precious stone adorned you:  ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire, turquoise, and beryl. Gold work of tambourines and of pipes was in you. In the day that you were created they were prepared.
+102|Daniel|009|025|Know therefore and discern, that from the going forth of the commandment to restore and to build Jerusalem to the Anointed One, the prince, shall be seven weeks, and sixty-two weeks:  it shall be built again, with street and moat, even in troubled times.
+103|Daniel|009|026|After the sixty-two weeks the Anointed One shall be cut off, and shall have nothing:  and the people of the prince who shall come shall destroy the city and the sanctuary; and the end of it shall be with a flood, and even to the end shall be war; desolations are determined.
+104|Hosea|001|006|"She conceived again, and bore a daughter.  Then he said to him, ""Call her name Lo-Ruhamah; for I will no longer have mercy on the house of Israel, that I should in any way pardon them."
+105|Hosea|001|009|"He said, ""Call his name Lo-Ammi; for you are not my people, and I will not be yours."
+106|Hosea|002|001|"""Say to your brothers, 'My people!' and to your sisters, 'My loved one!'"
+107|Jonah|001|006|"So the shipmaster came to him, and said to him, ""What do you mean, sleeper?  Arise, call on your God! Maybe your God will notice us, so that we won't perish."""
+108|Micah|001|010|Don't tell it in Gath.  Don't weep at all.  At Beth Ophrah I have rolled myself in the dust.
+109|Micah|006|010|Are there yet treasures of wickedness in the house of the wicked, and a short ephah that is accursed?
+110|Nahum|003|008|Are you better than No-Amon, who was situated among the rivers, who had the waters around her; whose rampart was the sea, and her wall was of the sea?
+111|Zechariah|005|006|"I said, ""What is it?""  He said, ""This is the ephah basket that is appearing.""  He said moreover, ""This is their appearance in all the land"
+112|Zechariah|005|007|"(and behold, a talent of lead was lifted up); and this is a woman sitting in the midst of the ephah basket."""
+113|Zechariah|012|010|I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.
+114|Matthew|001|001|The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
+115|Matthew|001|016|Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.
+116|Matthew|001|023|"""Behold, the virgin shall be with child, and shall bring forth a son. They shall call his name Immanuel;"" which is, being interpreted, ""God with us."""
+117|Matthew|002|001|Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, saying,
+118|Matthew|002|006|"'You Bethlehem, land of Judah, are in no way least among the princes of Judah:  for out of you shall come forth a governor, who shall shepherd my people, Israel.'"""
+119|Matthew|002|015|"and was there until the death of Herod; that it might be fulfilled which was spoken by the Lord through the prophet, saying, ""Out of Egypt I called my son."""
+120|Matthew|002|018|"""A voice was heard in Ramah, lamentation, weeping and great mourning, Rachel weeping for her children; she wouldn't be comforted, because they are no more."""
+121|Matthew|003|003|"For this is he who was spoken of by Isaiah the prophet, saying, ""The voice of one crying in the wilderness, make ready the way of the Lord.  Make his paths straight."""
+122|Matthew|003|006|They were baptized by him in the Jordan, confessing their sins.
+123|Matthew|003|007|"But when he saw many of the Pharisees and Sadducees coming for his baptism, he said to them, ""You offspring of vipers, who warned you to flee from the wrath to come?"
+124|Matthew|003|011|I indeed baptize you in water for repentance, but he who comes after me is mightier than I, whose shoes I am not worthy to carry.  He will baptize you in the Holy Spirit.
+125|Matthew|004|004|"But he answered, ""It is written, 'Man shall not live by bread alone, but by every word that proceeds out of the mouth of God.'"""
+126|Matthew|004|006|"and said to him, ""If you are the Son of God, throw yourself down, for it is written, 'He will give his angels charge concerning you.' and, 'On their hands they will bear you up, so that you don't dash your foot against a stone.'"""
+127|Matthew|004|007|"Jesus said to him, ""Again, it is written, 'You shall not test the Lord, your God.'"""
+128|Matthew|004|010|"Then Jesus said to him, ""Get behind me, Satan!  For it is written, 'You shall worship the Lord your God, and him only shall you serve.'"""
+129|Matthew|004|016|"the people who sat in darkness saw a great light, to those who sat in the region and shadow of death, to them light has dawned."""
+130|Matthew|004|018|Walking by the sea of Galilee, he saw two brothers:  Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen.
+131|Matthew|005|003|"""Blessed are the poor in spirit, for theirs is the Kingdom of Heaven."
+132|Matthew|005|004|Blessed are those who mourn, for they shall be comforted.
+133|Matthew|005|005|Blessed are the gentle, for they shall inherit the earth.
+134|Matthew|005|018|For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished.
+135|Matthew|005|021|"""You have heard that it was said to the ancient ones, 'You shall not murder;' and 'Whoever shall murder shall be in danger of the judgment.'"
+136|Matthew|005|022|But I tell you, that everyone who is angry with his brother without a cause shall be in danger of the judgment; and whoever shall say to his brother, 'Raca!' shall be in danger of the council; and whoever shall say, 'You fool!' shall be in danger of the fire of Gehenna.
+137|Matthew|005|026|Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny.
+138|Matthew|005|027|"""You have heard that it was said,  'You shall not commit adultery;'"
+139|Matthew|005|029|If your right eye causes you to stumble, pluck it out and throw it away from you.  For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.
+140|Matthew|005|030|If your right hand causes you to stumble, cut it off, and throw it away from you.  For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.
+141|Matthew|005|031|"""It was also said, 'Whoever shall put away his wife, let him give her a writing of divorce,'"
+142|Matthew|005|038|"""You have heard that it was said, 'An eye for an eye, and a tooth for a tooth.'"
+143|Matthew|005|043|"""You have heard that it was said, 'You shall love your neighbor, and hate your enemy.'"
+144|Matthew|006|013|Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.'
+145|Matthew|006|027|"""Which of you, by being anxious, can add one moment to his lifespan?"
+146|Matthew|007|014|How narrow is the gate, and restricted is the way that leads to life! Few are those who find it.
+147|Matthew|008|015|He touched her hand, and the fever left her.  She got up and served him.
+148|Matthew|008|017|"that it might be fulfilled which was spoken through Isaiah the prophet, saying:  ""He took our infirmities, and bore our diseases."""
+149|Matthew|008|028|When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.
+150|Matthew|009|013|"But you go and learn what this means:  'I desire mercy, and not sacrifice,' for I came not to call the righteous, but sinners to repentance."""
+151|Matthew|009|020|Behold, a woman who had an issue of blood for twelve years came behind him, and touched the fringe of his garment;
+152|Matthew|009|036|But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd.
+153|Matthew|010|003|Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, whose surname was Thaddaeus;
+154|Matthew|010|008|Heal the sick, cleanse the lepers, and cast out demons.  Freely you received, so freely give.
+155|Matthew|010|028|Don't be afraid of those who kill the body, but are not able to kill the soul.  Rather, fear him who is able to destroy both soul and body in Gehenna.
+156|Matthew|010|029|"""Aren't two sparrows sold for an assarion coin? Not one of them falls on the ground apart from your Father's will,"
+157|Matthew|010|036|A man's foes will be those of his own household.
+158|Matthew|011|005|the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised up, and the poor have good news preached to them.
+159|Matthew|011|010|For this is he, of whom it is written, 'Behold, I send my messenger before your face, who will prepare your way before you.'
+160|Matthew|011|012|From the days of John the Baptizer until now, the Kingdom of Heaven suffers violence, and the violent take it by force.
+161|Matthew|011|019|"The Son of Man came eating and drinking, and they say, 'Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners!'  But wisdom is justified by her children."""
+162|Matthew|011|023|You, Capernaum, who are exalted to heaven, you will go down to Hades. For if the mighty works had been done in Sodom which were done in you, it would have remained until this day.
+163|Matthew|012|004|how he entered into the house of God, and ate the show bread, which was not lawful for him to eat, neither for those who were with him, but only for the priests?
+164|Matthew|012|007|But if you had known what this means, 'I desire mercy, and not sacrifice,' you would not have condemned the guiltless.
+165|Matthew|012|021|"In his name, the nations will hope."""
+166|Matthew|012|035|The good man out of his good treasure brings out good things, and the evil man out of his evil treasure brings out evil things.
+167|Matthew|013|015|for this people's heart has grown callous, their ears are dull of hearing, they have closed their eyes; or else perhaps they might perceive with their eyes, hear with their ears, understand with their heart, and should turn again; and I would heal them.'
+168|Matthew|013|025|but while people slept, his enemy came and sowed darnel weeds also among the wheat, and went away.
+169|Matthew|013|033|"He spoke another parable to them.  ""The Kingdom of Heaven is like yeast, which a woman took, and hid in three measures of meal, until it was all leavened."""
+170|Matthew|013|035|"that it might be fulfilled which was spoken through the prophet, saying, ""I will open my mouth in parables; I will utter things hidden from the foundation of the world."""
+171|Matthew|013|055|Isn't this the carpenter's son?  Isn't his mother called Mary, and his brothers, James, Joses, Simon, and Judas?
+172|Matthew|014|025|In the fourth watch of the night, Jesus came to them, walking on the sea.
+173|Matthew|014|027|"But immediately Jesus spoke to them, saying ""Cheer up! It is I! Don't be afraid."""
+174|Matthew|014|036|and they begged him that they might just touch the fringe of his garment.  As many as touched it were made whole.
+175|Matthew|015|004|For God commanded, 'Honor your father and your mother,' and, 'He who speaks evil of father or mother, let him be put to death.'
+176|Matthew|015|009|"And in vain do they worship me, teaching as doctrine rules made by men.'"""
+177|Matthew|016|018|I also tell you that you are Peter, and on this rock I will build my assembly, and the gates of Hades will not prevail against it.
+178|Matthew|017|024|"When they had come to Capernaum, those who collected the didrachma coins came to Peter, and said, ""Doesn't your teacher pay the didrachma?"""
+179|Matthew|017|027|"But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you."""
+180|Matthew|018|009|If your eye causes you to stumble, pluck it out, and cast it from you.  It is better for you to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of fire.
+181|Matthew|018|016|But if he doesn't listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established.
+182|Matthew|018|024|When he had begun to reconcile, one was brought to him who owed him ten thousand talents.
+183|Matthew|018|028|"""But that servant went out, and found one of his fellow servants, who owed him one hundred denarii, and he grabbed him, and took him by the throat, saying, 'Pay me what you owe!'"
+184|Matthew|019|004|"He answered, ""Haven't you read that he who made them from the beginning made them male and female,"
+185|Matthew|019|005|and said, 'For this cause a man shall leave his father and mother, and shall join to his wife; and the two shall become one flesh?'
+186|Matthew|019|019|"'Honor your father and mother.' And, 'You shall love your neighbor as yourself.'"""
+187|Matthew|020|002|When he had agreed with the laborers for a denarius a day, he sent them into his vineyard.
+188|Matthew|020|003|He went out about the third hour, and saw others standing idle in the marketplace.
+189|Matthew|020|005|Again he went out about the sixth and the ninth hour, and did likewise.
+190|Matthew|020|006|About the eleventh hour he went out, and found others standing idle.  He said to them, 'Why do you stand here all day idle?'
+191|Matthew|020|026|It shall not be so among you, but whoever desires to become great among you shall be your servant.
+192|Matthew|021|001|When they drew near to Jerusalem, and came to Bethsphage, to the Mount of Olives, then Jesus sent two disciples,
+193|Matthew|021|005|"""Tell the daughter of Zion, behold, your King comes to you, humble, and riding on a donkey, on a colt, the foal of a donkey."""
+194|Matthew|021|009|"The multitudes who went before him, and who followed kept shouting, ""Hosanna to the son of David!  Blessed is he who comes in the name of the Lord!  Hosanna in the highest!"""
+195|Matthew|021|013|"He said to them, ""It is written, 'My house shall be called a house of prayer,' but you have made it a den of robbers!"""
+196|Matthew|021|016|"and said to him, ""Do you hear what these are saying?"" Jesus said to them, ""Yes. Did you never read, 'Out of the mouth of babes and nursing babies you have perfected praise?'"""
+197|Matthew|021|042|"Jesus said to them, ""Did you never read in the Scriptures, 'The stone which the builders rejected, the same was made the head of the corner.  This was from the Lord. It is marvelous in our eyes?'"
+198|Matthew|022|032|"'I am the God of Abraham, and the God of Isaac, and the God of Jacob?' God is not the God of the dead, but of the living."""
+199|Matthew|022|037|"Jesus said to him, ""'You shall love the Lord your God with all your heart, with all your soul, and with all your mind.'"
+200|Matthew|022|039|A second likewise is this, 'You shall love your neighbor as yourself.'
+201|Matthew|022|044|'The Lord said to my Lord, sit on my right hand, until I make your enemies a footstool for your feet?'
+202|Matthew|023|005|But all their works they do to be seen by men. They make their phylacteries broad, enlarge the fringes of their garments,
+203|Matthew|023|014|"""But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don't enter in yourselves, neither do you allow those who are entering in to enter."
+204|Matthew|023|015|Woe to you, scribes and Pharisees, hypocrites!  For you travel around by sea and land to make one proselyte; and when he becomes one, you make him twice as much of a son of Gehenna as yourselves.
+205|Matthew|023|023|"""Woe to you, scribes and Pharisees, hypocrites!  For you tithe mint, dill, and cumin, and have left undone the weightier matters of the law:  justice, mercy, and faith. But you ought to have done these, and not to have left the other undone."
+206|Matthew|023|025|"""Woe to you, scribes and Pharisees, hypocrites!  For you clean the outside of the cup and of the platter, but within they are full of extortion and unrighteousness."
+207|Matthew|023|033|You serpents, you offspring of vipers, how will you escape the judgment of Gehenna?
+208|Matthew|023|039|"For I tell you, you will not see me from now on, until you say, 'Blessed is he who comes in the name of the Lord!'"""
+209|Matthew|024|015|"""When, therefore, you see the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),"
+210|Matthew|024|028|For wherever the carcass is, there is where the vultures gather together.
+211|Matthew|024|029|But immediately after the oppression of those days, the sun will be darkened, the moon will not give its light, the stars will fall from the sky, and the powers of the heavens will be shaken;
+212|Matthew|024|034|Most certainly I tell you, this generation will not pass away, until all these things are accomplished.
+213|Matthew|025|007|Then all those virgins arose, and trimmed their lamps.
+214|Matthew|025|040|"""The King will answer them, 'Most certainly I tell you, inasmuch as you did it to one of the least of these my brothers, you did it to me.'"
+215|Matthew|026|026|"As they were eating, Jesus took bread, gave thanks for it, and broke it. He gave to the disciples, and said, ""Take, eat; this is my body."""
+216|Matthew|026|031|"Then Jesus said to them, ""All of you will be made to stumble because of me tonight, for it is written, 'I will strike the shepherd, and the sheep of the flock will be scattered.'"
+217|Matthew|027|009|"Then that which was spoken through Jeremiah the prophet was fulfilled, saying, ""They took the thirty pieces of silver, the price of him upon whom a price had been set, whom some of the children of Israel priced,"
+218|Matthew|027|010|"and they gave them for the potter's field, as the Lord commanded me."""
+219|Matthew|027|035|When they had crucified him, they divided his clothing among them, casting lots,
+220|Matthew|027|041|Likewise the chief priests also mocking, with the scribes, the Pharisees, and the elders, said,
+221|Matthew|027|045|Now from the sixth hour there was darkness over all the land until the ninth hour.
+222|Matthew|027|046|"About the ninth hour Jesus cried with a loud voice, saying, ""Eli, Eli, lima sabachthani?"" That is, ""My God, my God, why have you forsaken me?"""
+223|Matthew|028|010|"Then Jesus said to them, ""Don't be afraid.  Go tell my brothers that they should go into Galilee, and there they will see me."""
+224|Mark|001|002|"As it is written in the prophets, ""Behold, I send my messenger before your face, who will prepare your way before you."
+225|Mark|001|003|"The voice of one crying in the wilderness, 'Make ready the way of the Lord!  Make his paths straight!'"""
+226|Mark|001|004|John came baptizing in the wilderness and preaching the baptism of repentance for forgiveness of sins.
+227|Mark|001|008|"I baptized you in water, but he will baptize you in the Holy Spirit."""
+228|Mark|003|032|"A multitude was sitting around him, and they told him, ""Behold, your mother, your brothers, and your sisters are outside looking for you."""
+229|Mark|004|004|and it happened, as he sowed, some seed fell by the road, and the birds came and devoured it.
+230|Mark|004|012|"that 'seeing they may see, and not perceive; and hearing they may hear, and not understand; lest perhaps they should turn again, and their sins should be forgiven them.'"""
+231|Mark|004|021|"He said to them, ""Is the lamp brought to be put under a basket or under a bed? Isn't it put on a stand?"
+232|Mark|006|033|They saw them going, and many recognized him and ran there on foot from all the cities. They arrived before them and came together to him.
+233|Mark|006|037|"But he answered them, ""You give them something to eat."" They asked him, ""Shall we go and buy two hundred denarii worth of bread, and give them something to eat?"""
+234|Mark|006|044|Those who ate the loaves were five thousand men.
+235|Mark|006|050|"for they all saw him, and were troubled.  But he immediately spoke with them, and said to them, ""Cheer up! It is I! Don't be afraid."""
+236|Mark|006|056|Wherever he entered, into villages, or into cities, or into the country, they laid the sick in the marketplaces, and begged him that they might touch just the fringe of his garment; and as many as touched him were made well.
+237|Mark|007|007|But in vain do they worship me, teaching as doctrines the commandments of men.'
+238|Mark|007|010|For Moses said, 'Honor your father and your mother;' and, 'He who speaks evil of father or mother, let him be put to death.'
+239|Mark|007|011|"But you say, 'If a man tells his father or his mother, ""Whatever profit you might have received from me is Corban, that is to say, given to God;""'"
+240|Mark|008|012|"He sighed deeply in his spirit, and said, ""Why does this generation seek a sign? Most certainly I tell you, no sign will be given to this generation."""
+241|Mark|009|043|If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, into the unquenchable fire,
+242|Mark|009|045|If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, into the fire that will never be quenched--
+243|Mark|009|047|If your eye causes you to stumble, cast it out. It is better for you to enter into the Kingdom of God with one eye, rather than having two eyes to be cast into the Gehenna of fire,
+244|Mark|009|048|'where their worm doesn't die, and the fire is not quenched.'
+245|Mark|010|006|But from the beginning of the creation, God made them male and female.
+246|Mark|010|008|and the two will become one flesh, so that they are no longer two, but one flesh.
+247|Mark|010|019|"You know the commandments:  'Do not murder,' 'Do not commit adultery,' 'Do not steal,' 'Do not give false testimony,' 'Do not defraud,' 'Honor your father and mother.'"""
+248|Mark|010|051|"Jesus asked him, ""What do you want me to do for you?"" The blind man said to him, ""Rhabboni, that I may see again."""
+249|Mark|011|001|When they drew near to Jerusalem, to Bethsphage and Bethany, at the Mount of Olives, he sent two of his disciples,
+250|Mark|011|009|"Those who went in front, and those who followed, cried out, ""Hosanna! Blessed is he who comes in the name of the Lord!"
+251|Mark|011|017|"He taught, saying to them, ""Isn't it written, 'My house will be called a house of prayer for all the nations?' But you have made it a den of robbers!"""
+252|Mark|012|011|"This was from the Lord, it is marvelous in our eyes'?"""
+253|Mark|012|026|But about the dead, that they are raised; haven't you read in the book of Moses, about the Bush, how God spoke to him, saying, 'I am the God of Abraham, the God of Isaac, and the God of Jacob'?
+254|Mark|012|030|you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.' This is the first commandment.
+255|Mark|012|031|"The second is like this, 'You shall love your neighbor as yourself.' There is no other commandment greater than these."""
+256|Mark|012|036|"For David himself said in the Holy Spirit, 'The Lord said to my Lord, ""Sit at my right hand, until I make your enemies the footstool of your feet.""'"
+257|Mark|012|042|A poor widow came, and she cast in two small brass coins, which equal a quadrans coin.
+258|Mark|013|006|For many will come in my name, saying, 'I am he!' and will lead many astray.
+259|Mark|013|014|But when you see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not (let the reader understand), then let those who are in Judea flee to the mountains,
+260|Mark|013|025|the stars will be falling from the sky, and the powers that are in the heavens will be shaken.
+261|Mark|013|030|Most certainly I say to you, this generation will not pass away until all these things happen.
+262|Mark|014|005|"For this might have been sold for more than three hundred denarii, and given to the poor.""  They grumbled against her."
+263|Mark|014|027|"Jesus said to them, ""All of you will be made to stumble because of me tonight, for it is written, 'I will strike the shepherd, and the sheep will be scattered.'"
+264|Mark|015|025|It was the third hour, and they crucified him.
+265|Mark|015|032|"Let the Christ, the King of Israel, now come down from the cross, that we may see and believe him."" Those who were crucified with him insulted him."
+266|Mark|015|033|When the sixth hour had come, there was darkness over the whole land until the ninth hour.
+267|Mark|015|034|"At the ninth hour Jesus cried with a loud voice, saying, ""Eloi, Eloi, lama sabachthani?"" which is, being interpreted, ""My God, my God, why have you forsaken me?"""
+268|Mark|016|008|They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid.
+269|Luke|002|023|"(as it is written in the law of the Lord, ""Every male who opens the womb shall be called holy to the Lord""),"
+270|Luke|002|024|"and to offer a sacrifice according to that which is said in the law of the Lord, ""A pair of turtledoves, or two young pigeons."""
+271|Luke|002|026|It had been revealed to him by the Holy Spirit that he should not see death before he had seen the Lord's Christ.
+272|Luke|003|006|"All flesh will see God's salvation.'"""
+273|Luke|003|019|but Herod the tetrarch, being reproved by him for Herodias, his brother's wife, and for all the evil things which Herod had done,
+274|Luke|003|033|the son of Amminadab, the son of Aram, the son of Hezron, the son of Perez, the son of Judah,
+275|Luke|004|004|"Jesus answered him, saying, ""It is written, 'Man shall not live by bread alone, but by every word of God.'"""
+276|Luke|004|008|"Jesus answered him, ""Get behind me Satan!  For it is written, 'You shall worship the Lord your God, and him only shall you serve.'"""
+277|Luke|004|011|"and, 'On their hands they will bear you up, lest perhaps you dash your foot against a stone.'"""
+278|Luke|004|012|"Jesus answering, said to him, ""It has been said, 'You shall not tempt the Lord your God.'"""
+279|Luke|004|019|"and to proclaim the acceptable year of the Lord."""
+280|Luke|006|026|Woe, when men speak well of you, for their fathers did the same thing to the false prophets.
+281|Luke|006|038|"""Give, and it will be given to you:  good measure, pressed down, shaken together, and running over, will be given to you. For with the same measure you measure it will be measured back to you."""
+282|Luke|007|027|This is he of whom it is written, 'Behold, I send my messenger before your face, who will prepare your way before you.'
+283|Luke|007|031|"But the Lord said, ""To what then will I liken the people of this generation? What are they like?"
+284|Luke|008|003|and Joanna, the wife of Chuzas, Herod's steward; Susanna; and many others; who served them from their possessions.
+285|Luke|008|010|"He said, ""To you it is given to know the mysteries of the Kingdom of God, but to the rest in parables; that 'seeing they may not see, and hearing they may not understand.'"
+286|Luke|008|044|came behind him, and touched the fringe of his cloak, and immediately the flow of her blood stopped.
+287|Luke|009|001|He called the twelve together, and gave them power and authority over all demons, and to cure diseases.
+288|Luke|009|023|"He said to all, ""If anyone desires to come after me, let him deny himself, take up his cross, and follow me."
+289|Luke|009|031|who appeared in glory, and spoke of his departure, which he was about to accomplish at Jerusalem.
+290|Luke|010|001|Now after these things, the Lord also appointed seventy others, and sent them two by two ahead of him into every city and place, where he was about to come.
+291|Luke|010|015|You, Capernaum, who are exalted to heaven, will be brought down to Hades.
+292|Luke|010|027|"He answered, ""You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and your neighbor as yourself."""
+293|Luke|012|005|But I will warn you whom you should fear.  Fear him, who after he has killed, has power to cast into Gehenna. Yes, I tell you, fear him.
+294|Luke|012|006|"""Aren't five sparrows sold for two assaria coins?  Not one of them is forgotten by God."
+295|Luke|012|059|"I tell you, you will by no means get out of there, until you have paid the very last penny."""
+296|Luke|013|021|"It is like yeast, which a woman took and hid in three measures of flour, until it was all leavened."""
+297|Luke|013|035|"Behold, your house is left to you desolate.  I tell you, you will not see me, until you say, 'Blessed is he who comes in the name of the Lord!'"""
+298|Luke|014|005|"He answered them, ""Which of you, if your son or an ox fell into a well, wouldn't immediately pull him out on a Sabbath day?"""
+299|Luke|015|008|Or what woman, if she had ten drachma coins, if she lost one drachma coin, wouldn't light a lamp, sweep the house, and seek diligently until she found it?
+300|Luke|016|006|He said, 'A hundred batos of oil.' He said to him, 'Take your bill, and sit down quickly and write fifty.'
+301|Luke|016|007|Then said he to another, 'How much do you owe?'  He said, 'A hundred cors of wheat.'  He said to him, 'Take your bill, and write eighty.'
+302|Luke|016|013|"No servant can serve two masters, for either he will hate the one, and love the other; or else he will hold to one, and despise the other.  You aren't able to serve God and mammon."""
+303|Luke|016|023|In Hades, he lifted up his eyes, being in torment, and saw Abraham far off, and Lazarus at his bosom.
+304|Luke|017|036|
+305|Luke|018|020|"You know the commandments:  'Don't commit adultery,' 'Don't murder,' 'Don't steal,' 'Don't give false testimony,' 'Honor your father and your mother.'"""
+306|Luke|019|013|He called ten servants of his, and gave them ten mina coins, and told them, 'Conduct business until I come.'
+307|Luke|019|029|It happened, when he drew near to Bethsphage and Bethany, at the mountain that is called Olivet, he sent two of his disciples,
+308|Luke|019|038|"saying, ""Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!"""
+309|Luke|019|046|"saying to them, ""It is written, 'My house is a house of prayer,' but you have made it a 'den of robbers'!"""
+310|Luke|020|001|It happened on one of those days, as he was teaching the people in the temple and preaching the Good News, that the priests and scribes came to him with the elders.
+311|Luke|020|009|"He began to tell the people this parable.  ""A man planted a vineyard, and rented it out to some farmers, and went into another country for a long time."
+312|Luke|020|017|"But he looked at them, and said, ""Then what is this that is written, 'The stone which the builders rejected, the same was made the chief cornerstone?'"
+313|Luke|020|037|But that the dead are raised, even Moses showed at the bush, when he called the Lord 'The God of Abraham, the God of Isaac, and the God of Jacob.'
+314|Luke|020|043|"until I make your enemies the footstool of your feet.""'"
+315|Luke|021|002|He saw a certain poor widow casting in two small brass coins.
+316|Luke|021|008|"He said, ""Watch out that you don't get led astray, for many will come in my name, saying, 'I am he,' and, 'The time is at hand.' Therefore don't follow them."
+317|Luke|022|032|"but I prayed for you, that your faith wouldn't fail. You, when once you have turned again, establish your brothers."""
+318|Luke|022|037|"For I tell you that this which is written must still be fulfilled in me:  'He was counted with the lawless.' For that which concerns me has an end."""
+319|Luke|023|030|Then they will begin to tell the mountains, 'Fall on us!' and tell the hills, 'Cover us.'
+320|Luke|023|044|It was now about the sixth hour, and darkness came over the whole land until the ninth hour.
+321|Luke|024|013|Behold, two of them were going that very day to a village named Emmaus, which was sixty stadia from Jerusalem.
+322|John|001|005|The light shines in the darkness, and the darkness hasn't overcome it.
+323|John|001|018|No one has seen God at any time.  The one and only Son, who is in the bosom of the Father, he has declared him.
+324|John|001|023|"He said, ""I am the voice of one crying in the wilderness, 'Make straight the way of the Lord,' as Isaiah the prophet said."""
+325|John|001|039|"He said to them, ""Come, and see.""  They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour."
+326|John|001|041|"He first found his own brother, Simon, and said to him, ""We have found the Messiah!"" (which is, being interpreted, Christ)."
+327|John|002|006|Now there were six water pots of stone set there after the Jews' manner of purifying, containing two or three metretes apiece.
+328|John|002|017|"His disciples remembered that it was written, ""Zeal for your house will eat me up."""
+329|John|003|003|"Jesus answered him, ""Most certainly, I tell you, unless one is born anew, he can't see the Kingdom of God."""
+330|John|003|008|"The wind blows where it wants to, and you hear its sound, but don't know where it comes from and where it is going. So is everyone who is born of the Spirit."""
+331|John|003|036|"One who believes in the Son has eternal life, but one who disobeys the Son won't see life, but the wrath of God remains on him."""
+332|John|004|006|Jacob's well was there.  Jesus therefore, being tired from his journey, sat down by the well.  It was about the sixth hour.
+333|John|004|052|"So he inquired of them the hour when he began to get better. They said therefore to him, ""Yesterday at the seventh hour, the fever left him."""
+334|John|006|019|When therefore they had rowed about twenty-five or thirty stadia, they saw Jesus walking on the sea, and drawing near to the boat; and they were afraid.
+335|John|006|020|"But he said to them, ""It is I. Don't be afraid."""
+336|John|006|031|"Our fathers ate the manna in the wilderness.  As it is written, 'He gave them bread out of heaven to eat.'"""
+337|John|006|045|It is written in the prophets, 'They will all be taught by God.' Therefore everyone who hears from the Father, and has learned, comes to me.
+338|John|007|042|"Hasn't the Scripture said that the Christ comes of the seed of David, and from Bethlehem, the village where David was?"""
+339|John|007|052|"They answered him, ""Are you also from Galilee?  Search, and see that no prophet has arisen out of Galilee."""
+340|John|008|005|"Now in our law, Moses commanded us to stone such. What then do you say about her?"""
+341|John|008|012|"Again, therefore, Jesus spoke to them, saying, ""I am the light of the world. He who follows me will not walk in the darkness, but will have the light of life."""
+342|John|008|017|It's also written in your law that the testimony of two people is valid.
+343|John|008|032|"You will know the truth, and the truth will make you free."""
+344|John|009|031|We know that God doesn't listen to sinners, but if anyone is a worshipper of God, and does his will, he listens to him.
+345|John|010|011|I am the good shepherd. The good shepherd lays down his life for the sheep.
+346|John|010|016|I have other sheep, which are not of this fold. I must bring them also, and they will hear my voice. They will become one flock with one shepherd.
+347|John|010|017|Therefore the Father loves me, because I lay down my life, that I may take it again.
+348|John|010|021|"Others said, ""These are not the sayings of one possessed by a demon. It isn't possible for a demon to open the eyes of the blind, is it?"""
+349|John|010|022|It was the Feast of the Dedication at Jerusalem.
+350|John|010|034|"Jesus answered them, ""Isn't it written in your law, 'I said, you are gods?'"
+351|John|011|016|"Thomas therefore, who is called Didymus, said to his fellow disciples, ""Let's go also, that we may die with him."""
+352|John|011|018|Now Bethany was near Jerusalem, about fifteen stadia away.
+353|John|011|041|"So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes, and said, ""Father, I thank you that you listened to me."
+354|John|012|003|Mary, therefore, took a pound of ointment of pure nard, very precious, and anointed the feet of Jesus, and wiped his feet with her hair. The house was filled with the fragrance of the ointment.
+355|John|012|005|"""Why wasn't this ointment sold for three hundred denarii, and given to the poor?"""
+356|John|012|013|"they took the branches of the palm trees, and went out to meet him, and cried out, ""Hosanna!  Blessed is he who comes in the name of the Lord, the King of Israel!"""
+357|John|012|015|"""Don't be afraid, daughter of Zion.  Behold, your King comes, sitting on a donkey's colt."""
+358|John|012|034|"The multitude answered him, ""We have heard out of the law that the Christ remains forever. How do you say, 'The Son of Man must be lifted up?'  Who is this Son of Man?"""
+359|John|012|038|"that the word of Isaiah the prophet might be fulfilled, which he spoke, ""Lord, who has believed our report? To whom has the arm of the Lord been revealed?"""
+360|John|012|040|"""He has blinded their eyes and he hardened their heart, lest they should see with their eyes, and perceive with their heart, and would turn, and I would heal them."""
+361|John|012|041|Isaiah said these things when he saw his glory, and spoke of him.
+362|John|013|018|I don't speak concerning all of you.  I know whom I have chosen. But that the Scripture may be fulfilled, 'He who eats bread with me has lifted up his heel against me.'
+363|John|014|016|I will pray to the Father, and he will give you another Counselor, that he may be with you forever,--
+364|John|015|020|Remember the word that I said to you:  'A servant is not greater than his lord.' If they persecuted me, they will also persecute you.  If they kept my word, they will keep yours also.
+365|John|015|025|But this happened so that the word may be fulfilled which was written in their law, 'They hated me without a cause.'
+366|John|015|026|"""When the Counselor has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me."
+367|John|016|003|They will do these things because they have not known the Father, nor me.
+368|John|016|015|All things whatever the Father has are mine; therefore I said that he takes of mine, and will declare it to you.
+369|John|017|017|Sanctify them in your truth.  Your word is truth.
+370|John|018|009|"that the word might be fulfilled which he spoke, ""Of those whom you have given me, I have lost none."""
+371|John|019|014|"Now it was the Preparation Day of the Passover, at about the sixth hour. He said to the Jews, ""Behold, your King!"""
+372|John|019|024|"Then they said to one another, ""Let's not tear it, but cast lots for it to decide whose it will be,"" that the Scripture might be fulfilled, which says, ""They parted my garments among them. For my cloak they cast lots."" Therefore the soldiers did these things."
+373|John|019|028|"After this, Jesus, seeing that all things were now finished, that the Scripture might be fulfilled, said, ""I am thirsty."""
+374|John|019|036|"For these things happened, that the Scripture might be fulfilled, ""A bone of him will not be broken."""
+375|John|019|037|"Again another Scripture says, ""They will look on him whom they pierced."""
+376|John|019|039|Nicodemus, who at first came to Jesus by night, also came bringing a mixture of myrrh and aloes, about a hundred pounds.
+377|John|020|029|"Jesus said to him, ""Because you have seen me, you have believed.  Blessed are those who have not seen, and have believed."""
+378|John|021|008|But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits away), dragging the net full of fish.
+379|John|021|023|"This saying therefore went out among the brothers, that this disciple wouldn't die. Yet Jesus didn't say to him that he wouldn't die, but, ""If I desire that he stay until I come, what is that to you?"""
+380|Acts|001|020|For it is written in the book of Psalms, 'Let his habitation be made desolate.  Let no one dwell therein;' and, 'Let another take his office.'
+381|Acts|002|015|For these aren't drunken, as you suppose, seeing it is only the third hour of the day.
+382|Acts|002|021|It will be, that whoever will call on the name of the Lord will be saved.'
+383|Acts|002|027|because you will not leave my soul in Hades, neither will you allow your Holy One to see decay.
+384|Acts|002|028|You made known to me the ways of life.  You will make me full of gladness with your presence.'
+385|Acts|002|031|he foreseeing this spoke about the resurrection of the Christ, that neither was his soul left in Hades, nor did his flesh see decay.
+386|Acts|002|035|"until I make your enemies a footstool for your feet.""'"
+387|Acts|003|001|Peter and John were going up into the temple at the hour of prayer, the ninth hour.
+388|Acts|003|017|"""Now, brothers, I know that you did this in ignorance, as did also your rulers."
+389|Acts|003|023|It will be, that every soul that will not listen to that prophet will be utterly destroyed from among the people.'
+390|Acts|003|025|You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, 'In your seed will all the families of the earth be blessed.'
+391|Acts|004|011|He is 'the stone which was regarded as worthless by you, the builders, which has become the head of the corner.'
+392|Acts|004|026|The kings of the earth take a stand, and the rulers take council together, against the Lord, and against his Christ.'
+393|Acts|006|001|Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service.
+394|Acts|007|003|and said to him, 'Get out of your land, and from your relatives, and come into a land which I will show you.'
+395|Acts|007|007|'I will judge the nation to which they will be in bondage,' said God, 'and after that will they come out, and serve me in this place.'
+396|Acts|007|023|But when he was forty years old, it came into his heart to visit his brothers, the children of Israel.
+397|Acts|007|028|Do you want to kill me, as you killed the Egyptian yesterday?'
+398|Acts|007|032|'I am the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob.' Moses trembled, and dared not look.
+399|Acts|007|034|I have surely seen the affliction of my people that is in Egypt, and have heard their groaning.  I have come down to deliver them. Now come, I will send you into Egypt.'
+400|Acts|007|037|This is that Moses, who said to the children of Israel, 'The Lord our God will raise up a prophet for you from among your brothers, like me.'
+401|Acts|007|040|saying to Aaron, 'Make us gods that will go before us, for as for this Moses, who led us out of the land of Egypt, we don't know what has become of him.'
+402|Acts|007|043|You took up the tent of Moloch, the star of your god Rephan, the figures which you made to worship.  I will carry you away beyond Babylon.'
+403|Acts|007|050|Didn't my hand make all these things?'
+404|Acts|008|033|"In his humiliation, his judgment was taken away. Who will declare His generation?  For his life is taken from the earth."""
+405|Acts|008|037|
+406|Acts|009|005|"He said, ""Who are you, Lord?""  The Lord said, ""I am Jesus, whom you are persecuting."
+407|Acts|009|006|"But rise up, and enter into the city, and you will be told what you must do."""
+408|Acts|009|011|"The Lord said to him, ""Arise, and go to the street which is called Straight, and inquire in the house of Judah for one named Saul, a man of Tarsus. For behold, he is praying,"
+409|Acts|009|028|He was with them entering into Jerusalem,
+410|Acts|009|029|preaching boldly in the name of the Lord.  He spoke and disputed against the Hellenists, but they were seeking to kill him.
+411|Acts|009|030|When the brothers knew it, they brought him down to Caesarea, and sent him off to Tarsus.
+412|Acts|009|036|Now there was at Joppa a certain disciple named Tabitha, which when translated, means Dorcas. This woman was full of good works and acts of mercy which she did.
+413|Acts|009|038|As Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to him, imploring him not to delay in coming to them.
+414|Acts|010|003|"At about the ninth hour of the day, he clearly saw in a vision an angel of God coming to him, and saying to him, ""Cornelius!"""
+415|Acts|010|006|"He lodges with one Simon, a tanner, whose house is by the seaside."""
+416|Acts|010|019|"While Peter was pondering the vision, the Spirit said to him, ""Behold, three men seek you."
+417|Acts|010|030|"Cornelius said, ""Four days ago, I was fasting until this hour, and at the ninth hour, I prayed in my house, and behold, a man stood before me in bright clothing,"
+418|Acts|010|039|We are witnesses of everything he did both in the country of the Jews, and in Jerusalem; whom they also killed, hanging him on a tree.
+419|Acts|011|001|Now the apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God.
+420|Acts|011|020|But there were some of them, men of Cyprus and Cyrene, who, when they had come to Antioch, spoke to the Hellenists, preaching the Lord Jesus.
+421|Acts|012|025|Barnabas and Saul returned to Jerusalem, when they had fulfilled their service, also taking with them John whose surname was Mark.
+422|Acts|013|017|The God of this people chose our fathers, and exalted the people when they stayed as aliens in the land of Egypt, and with an uplifted arm, he led them out of it.
+423|Acts|013|023|From this man's seed, God has brought salvation to Israel according to his promise,
+424|Acts|013|024|before his coming, when John had first preached the baptism of repentance to Israel.
+425|Acts|013|033|that God has fulfilled the same to us, their children, in that he raised up Jesus.  As it is also written in the second psalm, 'You are my Son.  Today I have become your father.'
+426|Acts|013|034|"""Concerning that he raised him up from the dead, now no more to return to corruption, he has spoken thus:  'I will give you the holy and sure blessings of David.'"
+427|Acts|013|035|Therefore he says also in another psalm, 'You will not allow your Holy One to see decay.'
+428|Acts|013|038|Be it known to you therefore, brothers, that through this man is proclaimed to you remission of sins,
+429|Acts|013|041|"'Behold, you scoffers, and wonder, and perish; for I work a work in your days, a work which you will in no way believe, if one declares it to you.'"""
+430|Acts|013|047|"For so has the Lord commanded us, saying, 'I have set you as a light for the Gentiles, that you should bring salvation to the uttermost parts of the earth.'"""
+431|Acts|014|002|But the disbelieving Jews stirred up and embittered the souls of the Gentiles against the brothers.
+432|Acts|014|017|"Yet he didn't leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness."""
+433|Acts|015|003|They, being sent on their way by the assembly, passed through both Phoenicia and Samaria, declaring the conversion of the Gentiles. They caused great joy to all the brothers.
+434|Acts|015|011|"But we believe that we are saved through the grace of the Lord Jesus, just as they are."""
+435|Acts|015|017|That the rest of men may seek after the Lord; All the Gentiles who are called by my name, Says the Lord, who does all these things.
+436|Acts|015|022|Then it seemed good to the apostles and the elders, with the whole assembly, to choose men out of their company, and send them to Antioch with Paul and Barnabas:  Judas called Barsabbas, and Silas, chief men among the brothers.
+437|Acts|015|034|
+438|Acts|017|005|But the unpersuaded Jews took along some wicked men from the marketplace, and gathering a crowd, set the city in an uproar.  Assaulting the house of Jason, they sought to bring them out to the people.
+439|Acts|017|006|"When they didn't find them, they dragged Jason and certain brothers before the rulers of the city, crying, ""These who have turned the world upside down have come here also,"
+440|Acts|017|018|"Some of the Epicurean and Stoic philosophers also were conversing with him.  Some said, ""What does this babbler want to say?""  Others said, ""He seems to be advocating foreign deities,"" because he preached Jesus and the resurrection."
+441|Acts|018|018|Paul, having stayed after this many more days, took his leave of the brothers, and sailed from there for Syria, together with Priscilla and Aquila. He shaved his head in Cenchreae, for he had a vow.
+442|Acts|019|019|Many of those who practiced magical arts brought their books together and burned them in the sight of all. They counted the price of them, and found it to be fifty thousand pieces of silver.
+443|Acts|020|008|There were many lights in the upper chamber where we were gathered together.
+444|Acts|020|021|testifying both to Jews and to Greeks repentance toward God, and faith toward our Lord Jesus.
+445|Acts|020|028|Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood.
+446|Acts|020|032|Now, brothers, I entrust you to God, and to the word of his grace, which is able to build up, and to give you the inheritance among all those who are sanctified.
+447|Acts|023|005|"Paul said, ""I didn't know, brothers, that he was high priest. For it is written, 'You shall not speak evil of a ruler of your people.'"""
+448|Acts|023|023|"He called to himself two of the centurions, and said, ""Prepare two hundred soldiers to go as far as Caesarea, with seventy horsemen, and two hundred men armed with spears, at the third hour of the night."""
+449|Acts|024|006|He even tried to profane the temple, and we arrested him.
+450|Acts|024|007|
+451|Acts|024|008|"By examining him yourself you may ascertain all these things of which we accuse him."""
+452|Acts|027|014|But before long, a stormy wind beat down from shore, which is called Euroclydon.
+453|Acts|027|028|They took soundings, and found twenty fathoms. After a little while, they took soundings again, and found fifteen fathoms.
+454|Acts|028|001|When we had escaped, then they learned that the island was called Malta.
+455|Acts|028|014|where we found brothers, and were entreated to stay with them for seven days.  So we came to Rome.
+456|Acts|028|027|For this people's heart has grown callous.  Their ears are dull of hearing.  Their eyes they have closed. Lest they should see with their eyes, hear with their ears, understand with their heart, and would turn again, and I would heal them.'
+457|Romans|001|017|"For in it is revealed God's righteousness from faith to faith. As it is written, ""But the righteous shall live by faith."""
+458|Romans|002|006|"who ""will pay back to everyone according to their works:"""
+459|Romans|002|024|"For ""the name of God is blasphemed among the Gentiles because of you,"" just as it is written."
+460|Romans|003|004|"May it never be!  Yes, let God be found true, but every man a liar. As it is written, ""That you might be justified in your words, and might prevail when you come into judgment."""
+461|Romans|003|012|"They have all turned aside.  They have together become unprofitable. There is no one who does good, no, not, so much as one."""
+462|Romans|003|013|"""Their throat is an open tomb.  With their tongues they have used deceit."" ""The poison of vipers is under their lips;"""
+463|Romans|003|014|"""Whose mouth is full of cursing and bitterness."""
+464|Romans|003|017|"The way of peace, they haven't known."""
+465|Romans|003|018|"""There is no fear of God before their eyes."""
+466|Romans|003|025|whom God set forth to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God's forbearance;
+467|Romans|004|003|"For what does the Scripture say?  ""Abraham believed God, and it was accounted to him for righteousness."""
+468|Romans|004|008|"Blessed is the man whom the Lord will by no means charge with sin."""
+469|Romans|004|017|"As it is written, ""I have made you a father of many nations."" This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were."
+470|Romans|004|018|"Who in hope believed against hope, to the end that he might become a father of many nations, according to that which had been spoken, ""So will your seed be."""
+471|Romans|004|022|"Therefore it also was ""reckoned to him for righteousness."""
+472|Romans|007|001|Or don't you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?
+473|Romans|007|007|"What shall we say then?  Is the law sin?  May it never be! However, I wouldn't have known sin, except through the law. For I wouldn't have known coveting, unless the law had said, ""You shall not covet."""
+474|Romans|008|001|There is therefore now no condemnation to those who are in Christ Jesus, who don't walk according to the flesh, but according to the Spirit.
+475|Romans|008|015|"For you didn't receive the spirit of bondage again to fear, but you received the Spirit of adoption, by whom we cry, ""Abba!  Father!"""
+476|Romans|008|029|For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers.
+477|Romans|008|036|"Even as it is written, ""For your sake we are killed all day long. We were accounted as sheep for the slaughter."""
+478|Romans|009|007|"Neither, because they are Abraham's seed, are they all children. But, ""In Isaac will your seed be called."""
+479|Romans|009|009|"For this is a word of promise, ""At the appointed time I will come, and Sarah will have a son."""
+480|Romans|009|012|"it was said to her, ""The elder will serve the younger."""
+481|Romans|009|013|"Even as it is written, ""Jacob I loved, but Esau I hated."""
+482|Romans|009|015|"For he said to Moses, ""I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."""
+483|Romans|009|017|"For the Scripture says to Pharaoh, ""For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth."""
+484|Romans|009|020|"But indeed, O man, who are you to reply against God?  Will the thing formed ask him who formed it, ""Why did you make me like this?"""
+485|Romans|009|025|"As he says also in Hosea, ""I will call them 'my people,' which were not my people; and her 'beloved,' who was not beloved."""
+486|Romans|009|026|"""It will be that in the place where it was said to them, 'You are not my people,' There they will be called 'children of the living God.'"""
+487|Romans|009|028|"for He will finish the work and cut it short in righteousness, because the LORD will make a short work upon the earth."""
+488|Romans|009|029|"As Isaiah has said before, ""Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah."""
+489|Romans|009|033|"even as it is written, ""Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed."""
+490|Romans|010|004|For Christ is the fulfillment of the law for righteousness to everyone who believes.
+491|Romans|010|005|"For Moses writes about the righteousness of the law, ""The one who does them will live by them."""
+492|Romans|010|006|"But the righteousness which is of faith says this, ""Don't say in your heart, 'Who will ascend into heaven?' (that is, to bring Christ down);"
+493|Romans|010|007|"or, 'Who will descend into the abyss?' (that is, to bring Christ up from the dead.)"""
+494|Romans|010|008|"But what does it say?  ""The word is near you, in your mouth, and in your heart;"" that is, the word of faith, which we preach:"
+495|Romans|010|011|"For the Scripture says, ""Whoever believes in him will not be disappointed."""
+496|Romans|010|013|"For, ""Whoever will call on the name of the Lord will be saved."""
+497|Romans|010|015|"And how will they preach unless they are sent?  As it is written: ""How beautiful are the feet of those who preach the Good News of peace, who bring glad tidings of good things!"""
+498|Romans|010|016|"But they didn't all listen to the glad news.  For Isaiah says, ""Lord, who has believed our report?"""
+499|Romans|010|018|"But I say, didn't they hear?  Yes, most certainly, ""Their sound went out into all the earth, their words to the ends of the world."""
+500|Romans|010|019|"But I ask, didn't Israel know?  First Moses says, ""I will provoke you to jealousy with that which is no nation, with a nation void of understanding I will make you angry."""
+501|Romans|010|020|"Isaiah is very bold, and says, ""I was found by those who didn't seek me.  I was revealed to those who didn't ask for me."""
+502|Romans|010|021|"But as to Israel he says, ""All day long I stretched out my hands to a disobedient and contrary people."""
+503|Romans|011|003|"""Lord, they have killed your prophets, they have broken down your altars; and I am left alone, and they seek my life."""
+504|Romans|011|004|"But how does God answer him?  ""I have reserved for myself seven thousand men, who have not bowed the knee to Baal."""
+505|Romans|011|008|"According as it is written, ""God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, to this very day."""
+506|Romans|011|010|"Let their eyes be darkened, that they may not see. Bow down their back always."""
+507|Romans|011|025|For I don't desire you to be ignorant, brothers, of this mystery, so that you won't be wise in your own conceits, that a partial hardening has happened to Israel, until the fullness of the Gentiles has come in,
+508|Romans|011|027|"This is my covenant to them, when I will take away their sins."""
+509|Romans|011|034|"""For who has known the mind of the Lord?  Or who has been his counselor?"""
+510|Romans|011|035|"""Or who has first given to him, and it will be repaid to him again?"""
+511|Romans|012|019|"Don't seek revenge yourselves, beloved, but give place to God's wrath.  For it is written, ""Vengeance belongs to me; I will repay, says the Lord."""
+512|Romans|012|020|"Therefore ""If your enemy is hungry, feed him.  If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head."""
+513|Romans|013|009|"For the commandments, ""You shall not commit adultery,"" ""You shall not murder,"" ""You shall not steal,"" ""You shall not give false testimony,"" ""You shall not covet,"" and whatever other commandments there are, are all summed up in this saying, namely, ""You shall love your neighbor as yourself."""
+514|Romans|014|011|"For it is written, ""'As I live,' says the Lord, 'to me every knee will bow.  Every tongue will confess to God.'"""
+515|Romans|014|023|But he who doubts is condemned if he eats, because it isn't of faith; and whatever is not of faith is sin. (14:24) Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret through long ages, (14:25) but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations; (14:26) to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.
+516|Romans|015|003|"For even Christ didn't please himself.  But, as it is written, ""The reproaches of those who reproached you fell on me."""
+517|Romans|015|007|Therefore accept one another, even as Christ also accepted you, to the glory of God.
+518|Romans|015|009|"and that the Gentiles might glorify God for his mercy. As it is written, ""Therefore will I give praise to you among the Gentiles, and sing to your name."""
+519|Romans|015|010|"Again he says, ""Rejoice, you Gentiles, with his people."""
+520|Romans|015|011|"Again, ""Praise the Lord, all you Gentiles!  Let all the peoples praise him."""
+521|Romans|015|012|"Again, Isaiah says, ""There will be the root of Jesse, he who arises to rule over the Gentiles; in him the Gentiles will hope."""
+522|Romans|015|014|I myself am also persuaded about you, my brothers, that you yourselves are full of goodness, filled with all knowledge, able also to admonish others.
+523|Romans|015|021|"But, as it is written, ""They will see, to whom no news of him came. They who haven't heard will understand."""
+524|Romans|016|001|I commend to you Phoebe, our sister, who is a servant of the assembly that is at Cenchreae,
+525|Romans|016|014|Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them.
+526|Romans|016|025|
+527|Romans|016|026|
+528|Romans|016|027| 
+529|Corinthians 1|001|010|Now I beg you, brothers, through the name of our Lord, Jesus Christ, that you all speak the same thing and that there be no divisions among you, but that you be perfected together in the same mind and in the same judgment.
+530|Corinthians 1|001|019|"For it is written, ""I will destroy the wisdom of the wise, I will bring the discernment of the discerning to nothing."""
+531|Corinthians 1|001|031|"that, according as it is written, ""He who boasts, let him boast in the Lord."""
+532|Corinthians 1|002|009|"But as it is written, ""Things which an eye didn't see, and an ear didn't hear, which didn't enter into the heart of man, these God has prepared for those who love him."""
+533|Corinthians 1|002|016|"""For who has known the mind of the Lord, that he should instruct him?"" But we have Christ's mind."
+534|Corinthians 1|003|019|"For the wisdom of this world is foolishness with God.  For it is written, ""He has taken the wise in their craftiness."""
+535|Corinthians 1|003|020|"And again, ""The Lord knows the reasoning of the wise, that it is worthless."""
+536|Corinthians 1|005|013|"But those who are outside, God judges.  ""Put away the wicked man from among yourselves."""
+537|Corinthians 1|006|016|"Or don't you know that he who is joined to a prostitute is one body? For, ""The two,"" says he, ""will become one flesh."""
+538|Corinthians 1|009|009|"For it is written in the law of Moses, ""You shall not muzzle an ox while it treads out the grain."" Is it for the oxen that God cares,"
+539|Corinthians 1|010|007|"Neither be idolaters, as some of them were.  As it is written, ""The people sat down to eat and drink, and rose up to play."""
+540|Corinthians 1|010|026|"for ""the earth is the Lord's, and its fullness."""
+541|Corinthians 1|012|002|You know that when you were heathen, you were led away to those mute idols, however you might be led.
+542|Corinthians 1|014|006|But now, brothers, if I come to you speaking with other languages, what would I profit you, unless I speak to you either by way of revelation, or of knowledge, or of prophesying, or of teaching?
+543|Corinthians 1|014|021|"In the law it is written, ""By men of strange languages and by the lips of strangers I will speak to this people. Not even thus will they hear me, says the Lord."""
+544|Corinthians 1|015|027|"For, ""He put all things in subjection under his feet."" But when he says, ""All things are put in subjection,"" it is evident that he is excepted who subjected all things to him."
+545|Corinthians 1|015|032|"If I fought with animals at Ephesus for human purposes, what does it profit me?  If the dead are not raised, then ""let us eat and drink, for tomorrow we die."""
+546|Corinthians 1|015|045|"So also it is written, ""The first man, Adam, became a living soul."" The last Adam became a life-giving spirit."
+547|Corinthians 1|015|049|As we have borne the image of those made of dust, let's also bear the image of the heavenly.
+548|Corinthians 1|015|050|Now I say this, brothers, that flesh and blood can't inherit the Kingdom of God; neither does corruption inherit incorruption.
+549|Corinthians 1|015|054|"But when this corruptible will have put on incorruption, and this mortal will have put on immortality, then what is written will happen:  ""Death is swallowed up in victory."""
+550|Corinthians 1|015|055|"""Death, where is your sting?  Hades, where is your victory?"""
+551|Corinthians 1|016|022|If any man doesn't love the Lord Jesus Christ, let him be accursed. Come, Lord!
+552|Corinthians 2|001|008|For we don't desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia, that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.
+553|Corinthians 2|004|006|"seeing it is God who said, ""Light will shine out of darkness,"" who has shone in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
+554|Corinthians 2|004|013|"But having the same spirit of faith, according to that which is written, ""I believed, and therefore I spoke."" We also believe, and therefore also we speak;"
+555|Corinthians 2|006|002|"for he says, ""At an acceptable time I listened to you, in a day of salvation I helped you."" Behold, now is the acceptable time.  Behold, now is the day of salvation."
+556|Corinthians 2|006|016|"What agreement has a temple of God with idols? For you are a temple of the living God.  Even as God said, ""I will dwell in them, and walk in them; and I will be their God, and they will be my people."""
+557|Corinthians 2|006|017|"Therefore, ""'Come out from among them, and be separate,' says the Lord.  'Touch no unclean thing.  I will receive you."
+558|Corinthians 2|006|018|"I will be to you a Father.  You will be to me sons and daughters,' says the Lord Almighty."""
+559|Corinthians 2|008|015|"As it is written, ""He who gathered much had nothing left over, and he who gathered little had no lack."""
+560|Corinthians 2|009|009|"As it is written, ""He has scattered abroad, he has given to the poor. His righteousness remains forever."""
+561|Corinthians 2|010|017|"But ""he who boasts, let him boast in the Lord."""
+562|Corinthians 2|013|001|"This is the third time I am coming to you.  ""At the mouth of two or three witnesses shall every word established."""
+563|Galatians|001|002|and all the brothers who are with me, to the assemblies of Galatia:
+564|Galatians|003|008|"The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, ""In you all the nations will be blessed."""
+565|Galatians|003|010|"For as many as are of the works of the law are under a curse. For it is written, ""Cursed is everyone who doesn't continue in all things that are written in the book of the law, to do them."""
+566|Galatians|003|011|"Now that no man is justified by the law before God is evident, for, ""The righteous will live by faith."""
+567|Galatians|003|012|"The law is not of faith, but, ""The man who does them will live by them."""
+568|Galatians|003|013|"Christ redeemed us from the curse of the law, having become a curse for us.  For it is written, ""Cursed is everyone who hangs on a tree,"""
+569|Galatians|003|016|"Now the promises were spoken to Abraham and to his seed. He doesn't say, ""To seeds,"" as of many, but as of one, ""To your seed,"" which is Christ."
+570|Galatians|004|006|"And because you are children, God sent out the Spirit of his Son into your hearts, crying, ""Abba, Father!"""
+571|Galatians|004|027|"For it is written, ""Rejoice, you barren who don't bear. Break forth and shout, you that don't travail. For more are the children of the desolate than of her who has a husband."""
+572|Galatians|004|030|"However what does the Scripture say?  ""Throw out the handmaid and her son, for the son of the handmaid will not inherit with the son of the free woman."""
+573|Galatians|005|014|"For the whole law is fulfilled in one word, in this: ""You shall love your neighbor as yourself."""
+574|Galatians|005|022|But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith,
+575|Ephesians|001|018|having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,
+576|Ephesians|003|009|and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ;
+577|Ephesians|004|008|"Therefore he says, ""When he ascended on high, he led captivity captive, and gave gifts to men."""
+578|Ephesians|004|011|He gave some to be apostles; and some, prophets; and some, evangelists; and some, shepherds and teachers;
+579|Ephesians|004|026|"""Be angry, and don't sin."" Don't let the sun go down on your wrath,"
+580|Ephesians|005|031|"""For this cause a man will leave his father and mother, and will be joined to his wife.  The two will become one flesh."""
+581|Ephesians|006|003|"""that it may be well with you, and you may live long on the earth."""
+582|Philippians|001|001|Paul and Timothy, servants of Jesus Christ; To all the saints in Christ Jesus who are at Philippi, with the overseers and servants:
+583|Philippians|001|005|for your partnership in furtherance of the Good News from the first day until now;
+584|Philippians|001|012|Now I desire to have you know, brothers, that the things which happened to me have turned out rather to the progress of the Good News;
+585|Colossians|001|002|to the saints and faithful brothers in Christ at Colossae:  Grace to you and peace from God our Father, and the Lord Jesus Christ.
+586|Colossians|001|014|in whom we have our redemption, the forgiveness of our sins;
+587|Thessalonians 1|001|004|We know, brothers loved by God, that you are chosen,
+588|Thessalonians 1|002|019|For what is our hope, or joy, or crown of rejoicing? Isn't it even you, before our Lord Jesus at his coming?
+589|Thessalonians 2|001|003|We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you towards one another abounds;
+590|Thessalonians 2|001|012|that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
+591|Timothy 1|003|001|This is a faithful saying:  if a man seeks the office of an overseer, he desires a good work.
+592|Timothy 1|003|008|Servants, in the same way, must be reverent, not double-tongued, not addicted to much wine, not greedy for money;
+593|Timothy 1|003|010|Let them also first be tested; then let them serve if they are blameless.
+594|Timothy 1|003|012|Let servants be husbands of one wife, ruling their children and their own houses well.
+595|Timothy 1|003|013|For those who have served well gain for themselves a good standing, and great boldness in the faith which is in Christ Jesus.
+596|Timothy 1|005|004|But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is acceptable in the sight of God.
+597|Timothy 1|005|018|"For the Scripture says, ""You shall not muzzle the ox when it treads out the grain."" And, ""The laborer is worthy of his wages."""
+598|Timothy 1|006|005|constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such.
+599|Timothy 2|002|019|"However God's firm foundation stands, having this seal, ""The Lord knows those who are his,"" and, ""Let every one who names the name of the Lord depart from unrighteousness."""
+600|Timothy 2|003|016|Every writing inspired by God is profitable for teaching, for reproof, for correction, and for instruction which is in righteousness,
+601|Philemon|001|010|I beg you for my child, whom I have become the father of in my chains, Onesimus,
+602|Hebrews|001|005|"For to which of the angels did he say at any time, ""You are my Son. Today have I become your father?"" and again, ""I will be to him a Father, and he will be to me a Son?"""
+603|Hebrews|001|007|"Of the angels he says, ""Who makes his angels winds, and his servants a flame of fire."""
+604|Hebrews|001|009|"You have loved righteousness, and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows."""
+605|Hebrews|001|012|"As a mantle, you will roll them up, and they will be changed; but you are the same.  Your years will not fail."""
+606|Hebrews|001|013|"But which of the angels has he told at any time, ""Sit at my right hand, until I make your enemies the footstool of your feet?"""
+607|Hebrews|002|007|You made him a little lower than the angels.  You crowned him with glory and honor.
+608|Hebrews|002|008|"You have put all things in subjection under his feet."" For in that he subjected all things to him, he left nothing that is not subject to him.  But now we don't see all things subjected to him, yet."
+609|Hebrews|002|011|For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers,
+610|Hebrews|002|012|"saying, ""I will declare your name to my brothers.  In the midst of the congregation I will sing your praise."""
+611|Hebrews|002|013|"Again, ""I will put my trust in him."" Again, ""Behold, here I am with the children whom God has given me."""
+612|Hebrews|003|011|"as I swore in my wrath, 'They will not enter into my rest.'"""
+613|Hebrews|003|015|"while it is said, ""Today if you will hear his voice, don't harden your hearts, as in the rebellion."""
+614|Hebrews|004|003|"For we who have believed do enter into that rest, even as he has said, ""As I swore in my wrath, they will not enter into my rest;"" although the works were finished from the foundation of the world."
+615|Hebrews|004|004|"For he has said this somewhere about the seventh day, ""God rested on the seventh day from all his works;"""
+616|Hebrews|004|005|"and in this place again, ""They will not enter into my rest."""
+617|Hebrews|004|007|"he again defines a certain day, today, saying through David so long a time afterward (just as has been said), ""Today if you will hear his voice, don't harden your hearts."""
+618|Hebrews|005|005|"So also Christ didn't glorify himself to be made a high priest, but it was he who said to him, ""You are my Son. Today I have become your father."""
+619|Hebrews|005|006|"As he says also in another place, ""You are a priest forever, after the order of Melchizedek."""
+620|Hebrews|006|014|"saying, ""Surely blessing I will bless you, and multiplying I will multiply you."""
+621|Hebrews|007|017|"for it is testified, ""You are a priest forever, according to the order of Melchizedek."""
+622|Hebrews|007|021|"(for they indeed have been made priests without an oath), but he with an oath by him that says of him, ""The Lord swore and will not change his mind, 'You are a priest forever, according to the order of Melchizedek.'"""
+623|Hebrews|008|005|"who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, ""See, you shall make everything according to the pattern that was shown to you on the mountain."""
+624|Hebrews|008|011|They will not teach every man his fellow citizen, and every man his brother, saying, 'Know the Lord,' for all will know me, from the least of them to the greatest of them.
+625|Hebrews|008|012|"For I will be merciful to their unrighteousness.  I will remember their sins and lawless deeds no more."""
+626|Hebrews|009|001|Now indeed even the first covenant had ordinances of divine service, and an earthly sanctuary.
+627|Hebrews|009|020|"saying, ""This is the blood of the covenant which God has commanded you."""
+628|Hebrews|010|007|"Then I said, 'Behold, I have come (in the scroll of the book it is written of me) to do your will, O God.'"""
+629|Hebrews|010|016|"""This is the covenant that I will make with them: 'After those days,' says the Lord, 'I will put my laws on their heart, I will also write them on their mind;'"" then he says,"
+630|Hebrews|010|017|"""I will remember their sins and their iniquities no more."""
+631|Hebrews|010|030|"For we know him who said, ""Vengeance belongs to me,"" says the Lord, ""I will repay."" Again, ""The Lord will judge his people."""
+632|Hebrews|010|038|"But the righteous will live by faith.  If he shrinks back, my soul has no pleasure in him."""
+633|Hebrews|011|013|These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth.
+634|Hebrews|011|018|"even he to whom it was said, ""In Isaac will your seed be called;"""
+635|Hebrews|011|033|who, through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,
+636|Hebrews|011|034|quenched the power of fire, escaped the edge of the sword, from weakness were made strong, grew mighty in war, and caused foreign armies to flee.
+637|Hebrews|011|035|Women received their dead by resurrection. Others were tortured, not accepting their deliverance, that they might obtain a better resurrection.
+638|Hebrews|011|037|They were stoned. They were sawn apart. They were tempted.  They were slain with the sword. They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated
+639|Hebrews|012|006|"For whom the Lord loves, he chastens, and scourges every son whom he receives."""
+640|Hebrews|012|012|Therefore, lift up the hands that hang down and the feeble knees,
+641|Hebrews|012|013|and make straight paths for your feet, so that which is lame may not be dislocated, but rather be healed.
+642|Hebrews|012|020|"for they could not stand that which was commanded, ""If even an animal touches the mountain, it shall be stoned;"""
+643|Hebrews|012|021|"and so fearful was the appearance, that Moses said, ""I am terrified and trembling."""
+644|Hebrews|012|024|to Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel.
+645|Hebrews|012|026|"whose voice shook the earth then, but now he has promised, saying, ""Yet once more I will shake not only the earth, but also the heavens."""
+646|Hebrews|012|029|for our God is a consuming fire.
+647|Hebrews|013|005|"Be free from the love of money, content with such things as you have, for he has said, ""I will in no way leave you, neither will I in any way forsake you."""
+648|Hebrews|013|006|"So that with good courage we say, ""The Lord is my helper. I will not fear.  What can man do to me?"""
+649|Hebrews|013|011|For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp.
+650|Hebrews|013|015|Through him, then, let us offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to his name.
+651|James|001|002|Count it all joy, my brothers, when you fall into various temptations,
+652|James|001|021|Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls.
+653|James|002|002|For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in;
+654|James|002|008|"However, if you fulfill the royal law, according to the Scripture, ""You shall love your neighbor as yourself,"" you do well."
+655|James|002|011|"For he who said, ""Do not commit adultery,"" also said, ""Do not commit murder."" Now if you do not commit adultery, but murder, you have become a transgressor of the law."
+656|James|002|023|"and the Scripture was fulfilled which says, ""Abraham believed God, and it was accounted to him as righteousness;"" and he was called the friend of God."
+657|James|003|006|And the tongue is a fire.  The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.
+658|James|004|006|"But he gives more grace.  Therefore it says, ""God resists the proud, but gives grace to the humble."""
+659|James|005|004|Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies.
+660|James|005|012|"But above all things, my brothers, don't swear, neither by heaven, nor by the earth, nor by any other oath; but let your ""yes"" be ""yes,"" and your ""no,"" ""no;"" so that you don't fall into hypocrisy."
+661|Peter 1|001|013|Therefore, prepare your minds for action, be sober and set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ--
+662|Peter 1|001|016|"because it is written, ""You shall be holy; for I am holy."""
+663|Peter 1|001|025|"but the Lord's word endures forever."" This is the word of Good News which was preached to you."
+664|Peter 1|002|006|"Because it is contained in Scripture, ""Behold, I lay in Zion a chief cornerstone, chosen, and precious: He who believes in him will not be disappointed."""
+665|Peter 1|002|007|"For you who believe therefore is the honor, but for those who are disobedient, ""The stone which the builders rejected, has become the chief cornerstone,"""
+666|Peter 1|002|008|"and, ""a stone of stumbling, and a rock of offense."" For they stumble at the word, being disobedient, to which also they were appointed."
+667|Peter 1|002|021|For to this you were called, because Christ also suffered for us, leaving you an example, that you should follow his steps,
+668|Peter 1|002|022|"who did not sin, ""neither was deceit found in his mouth."""
+669|Peter 1|002|025|For you were going astray like sheep; but now have returned to the Shepherd and Overseer of your souls.
+670|Peter 1|003|012|"For the eyes of the Lord are on the righteous, and his ears open to their prayer; but the face of the Lord is against those who do evil."""
+671|Peter 1|003|014|"But even if you should suffer for righteousness' sake, you are blessed.  ""Don't fear what they fear, neither be troubled."""
+672|Peter 1|004|018|"""If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?"""
+673|Peter 1|005|005|"Likewise, you younger ones, be subject to the elder. Yes, all of you gird yourselves with humility, to subject yourselves to one another; for ""God resists the proud, but gives grace to the humble."""
+674|Peter 2|001|010|Therefore, brothers, be more diligent to make your calling and election sure.  For if you do these things, you will never stumble.
+675|Peter 2|001|017|"For he received from God the Father honor and glory, when the voice came to him from the Majestic Glory, ""This is my beloved Son, in whom I am well pleased."""
+676|Peter 2|002|002|Many will follow their immoral ways, and as a result, the way of the truth will be maligned.
+677|Peter 2|002|004|For if God didn't spare angels when they sinned, but cast them down to Tartarus, and committed them to pits of darkness, to be reserved for judgment;
+678|Peter 2|002|022|"But it has happened to them according to the true proverb, ""The dog turns to his own vomit again,"" and ""the sow that has washed to wallowing in the mire."""
+679|John 1|002|001|My little children, I write these things to you so that you may not sin.  If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous.
+680|John 1|002|002|And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.
+681|John 1|004|010|In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.
+682|John 1|005|007|For there are three who testify:
+683|Jude|001|001|Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:
+684|Jude|001|024|Now to him who is able to keep them from stumbling, and to present you faultless before the presence of his glory in great joy,
+685|Revelation|001|001|This is the Revelation of Jesus Christ, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, John,
+686|Revelation|001|006|and he made us to be a Kingdom, priests to his God and Father; to him be the glory and the dominion forever and ever.  Amen.
+687|Revelation|001|008|"""I am the Alpha and the Omega,"" says the Lord God, ""who is and who was and who is to come, the Almighty."""
+688|Revelation|001|011|"saying, ""What you see, write in a book and send to the seven assemblies: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea."""
+689|Revelation|001|013|And among the lampstands was one like a son of man, clothed with a robe reaching down to his feet, and with a golden sash around his chest.
+690|Revelation|001|018|and the Living one.  I was dead, and behold, I am alive forevermore.  Amen.  I have the keys of Death and of Hades.
+691|Revelation|001|020|the mystery of the seven stars which you saw in my right hand, and the seven golden lampstands.  The seven stars are the angels of the seven assemblies.  The seven lampstands are seven assemblies.
+692|Revelation|002|003|You have perseverance and have endured for my name's sake, and have not grown weary.
+693|Revelation|002|015|So you also have some who hold to the teaching of the Nicolaitans likewise.
+694|Revelation|002|017|He who has an ear, let him hear what the Spirit says to the assemblies.  To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.
+695|Revelation|002|020|But I have this against you, that you tolerate your woman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols.
+696|Revelation|002|027|He will rule them with a rod of iron, shattering them like clay pots; as I also have received of my Father:
+697|Revelation|004|008|"The four living creatures, each one of them having six wings, are full of eyes around about and within.  They have no rest day and night, saying, ""Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!"""
+698|Revelation|004|011|"""Worthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed, and were created!"""
+699|Revelation|005|013|"I heard every created thing which is in heaven, on the earth, under the earth, on the sea, and everything in them, saying, ""To him who sits on the throne, and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever! Amen!"""
+700|Revelation|005|014|"The four living creatures said, ""Amen!""  The elders fell down and worshiped."
+701|Revelation|006|006|"I heard a voice in the midst of the four living creatures saying, ""A choenix of wheat for a denarius, and three choenix of barley for a denarius! Don't damage the oil and the wine!"""
+702|Revelation|006|008|And behold, a pale horse, and he who sat on it, his name was Death.  Hades followed with him. Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.
+703|Revelation|006|011|A long white robe was given to each of them.  They were told that they should rest yet for a while, until their fellow servants and their brothers, who would also be killed even as they were, should complete their course.
+704|Revelation|008|007|The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth. One third of the earth was burnt up, and one third of the trees were burnt up, and all green grass was burnt up.
+705|Revelation|008|013|"I saw, and I heard an eagle, flying in mid heaven, saying with a loud voice, ""Woe!  Woe!  Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!"""
+706|Revelation|009|002|He opened the pit of the abyss, and smoke went up out of the pit, like the smoke from a burning furnace. The sun and the air were darkened because of the smoke from the pit.
+707|Revelation|009|011|"They have over them as king the angel of the abyss. His name in Hebrew is ""Abaddon,"" but in Greek, he has the name ""Apollyon."""
+708|Revelation|009|016|The number of the armies of the horsemen was two hundred million. I heard the number of them.
+709|Revelation|009|021|They didn't repent of their murders, nor of their sorceries, nor of their sexual immorality, nor of their thefts.
+710|Revelation|011|017|"saying:  ""We give you thanks, Lord God, the Almighty, the one who is and who was; because you have taken your great power, and reigned."
+711|Revelation|013|010|If anyone has captivity, he will go.  If anyone is with the sword, he must be killed. Here is the endurance and the faith of the saints.
+712|Revelation|014|005|In their mouth was found no lie, for they are blameless.
+713|Revelation|014|014|I looked, and behold, a white cloud; and on the cloud one sitting like a son of man, having on his head a golden crown, and in his hand a sharp sickle.
+714|Revelation|014|020|The winepress was trodden outside of the city, and blood came out from the winepress, even to the bridles of the horses, as far as one thousand six hundred stadia.
+715|Revelation|015|002|I saw something like a sea of glass mixed with fire, and those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God.
+716|Revelation|016|021|Great hailstones, about the weight of a talent, came down out of the sky on people. People blasphemed God because of the plague of the hail, for this plague is exceedingly severe.
+717|Revelation|017|008|The beast that you saw was, and is not; and is about to come up out of the abyss and to go into destruction. Those who dwell on the earth and whose names have not been written in the book of life from the foundation of the world will marvel when they see that the beast was, and is not, and shall be present.
+718|Revelation|019|015|Out of his mouth proceeds a sharp, double-edged sword, that with it he should strike the nations.  He will rule them with an iron rod. He treads the winepress of the fierceness of the wrath of God, the Almighty.
+719|Revelation|019|017|"I saw an angel standing in the sun.  He cried with a loud voice, saying to all the birds that fly in the sky, ""Come!  Be gathered together to the great supper of God,"
+720|Revelation|020|013|The sea gave up the dead who were in it. Death and Hades gave up the dead who were in them. They were judged, each one according to his works.
+721|Revelation|020|014|Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.
+722|Revelation|021|008|"But for the cowardly, unbelieving, sinners, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars, their part is in the lake that burns with fire and sulfur, which is the second death."""
+723|Revelation|021|016|The city lies foursquare, and its length is as great as its breadth. He measured the city with the reed, Twelve thousand twelve stadia. Its length, breadth, and height are equal.
+724|Revelation|021|017|Its wall is one hundred forty-four cubits, by the measure of a man, that is, of an angel.
+725|Revelation|021|019|The foundations of the city's wall were adorned with all kinds of precious stones.  The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;
+726|Revelation|022|001|He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,
