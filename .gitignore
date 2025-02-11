@@ -441,9 +441,6 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 # Eclipse m2e generated files
 # Eclipse Core
-
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
 #Ignore lock files
 .~lock.*#
 database/sqlite/bible-number-001.db
