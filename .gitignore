@@ -446,3 +446,4 @@ buildNumber.properties
 .classpath
 #Ignore lock files
 .~lock.*#
+database/sqlite/bible-number-001.db
