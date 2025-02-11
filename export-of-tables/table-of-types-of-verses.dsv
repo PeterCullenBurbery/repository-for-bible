@@ -1,0 +1,16 @@
+"TYPE_OF_VERSE_ID"|"DATE_CREATED"|"DATE_UPDATED"|"TYPE_OF_VERSE"|"DESCRIPTION"
+B0980F46CFAB4A69A13FAEE133DC3FFD|2025-01-28T19.16.03.052000000-05:00|2025-02-05T08.24.02.963000000-05:00|"web Peter Burbery"|""
+753CEEACEA6842759E96626A8592B6C0|2025-01-28T19.16.26.793000000-05:00|2025-02-05T08.24.02.962000000-05:00|"esv Peter Burbery"|"english standard version. I parsed by this downloading API and getting chapters, then parsed chapters into verses. I have some verses that are missing like in Matthew, Mark, Luke, John, Romans.
+I did not include footnotes. I could call this parsed ESV."
+B47E56F0799E41B6A05DEB4803A5396B|2025-01-30T22.09.32.925000000-05:00|2025-02-04T18.19.16.554000000-05:00|"web format"|"you would have things like Psalm 1:2 replaced with Psalm 001.002. It could get complicated with multiple verses like Psalm 1:2-Psalm 3:4 and with numbered books like 1 Samuel."
+7D7A4618B0984E1487F7530E42B730FA|2025-02-04T16.16.10.550000000-05:00|2025-02-05T08.24.02.959000000-05:00|"web Rob Keplin"|""
+A80A40A315604D5F897009364D8F1FD6|2025-02-03T20.20.52.459000000-05:00|2025-02-04T13.23.30.718000000-05:00|"niv"|"New international version (NIV). I think this is NIV 1984 because John 7.53 is ""Then each went to his own home."", and NIV 2011 has ""Then they all went home,""
+I think he pulled the data from https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/JOHN+7.html.
+ordered by book, chapter, verse"
+8F80057F0B164F4CAE666839F8791CF9|2025-02-03T20.21.07.655000000-05:00|2025-02-05T08.24.02.961000000-05:00|"esv Rob Keplin"|"In the database for the NIV, I also found the ESV so I am going to include that too. ordered by book, chapter, verse"
+D395E6D475D14A7FA1EE581D5E2CF8B9|2025-02-04T13.42.47.497000000-05:00|2025-02-04T19.00.05.623000000-05:00|"nlt"|""
+2C0C6B3713A44A97B5B23AAB2E471A24|2025-02-04T16.13.44.371000000-05:00|2025-02-04T19.00.05.624000000-05:00|"kjv"|""
+CBAE11AEE5EF40C3B9036637E32568FE|2025-02-04T20.20.20.263000000-05:00|2025-02-04T20.20.39.526000000-05:00|"ylt"|"young's literal translation"
+6EE44B945E24436190051998C455A6ED|2025-02-04T20.20.58.128000000-05:00|2025-02-04T20.20.58.128000000-05:00|"bbe"|"bible in basic english"
+A0FACFB917E24F51B61237532CF40BD1|2025-02-04T20.28.01.335000000-05:00|2025-02-04T20.28.01.335000000-05:00|"asv"|"American standard version"
+5EFCD299C42D4DB8A9363B54C46B635F|2025-02-04T20.30.50.500000000-05:00|2025-02-04T20.30.50.500000000-05:00|"wbt"|"webster's"
