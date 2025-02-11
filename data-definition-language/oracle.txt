@@ -1,0 +1,149 @@
+Oracle
+
+CREATE TABLE table_of_books_of_the_bible (
+    book_id      RAW(16) DEFAULT sys_guid() PRIMARY KEY,
+    date_created TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9),
+    date_updated TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9)
+);
+
+CREATE OR REPLACE TRIGGER trigger_for_updating_the_date_updated_column_for_table_of_books BEFORE
+    UPDATE ON table_of_books_of_the_bible
+    FOR EACH ROW
+BEGIN
+    :new.date_updated := systimestamp;
+END;
+/
+
+ALTER TABLE table_of_books_of_the_bible ADD (
+    name_of_book VARCHAR2(4000) UNIQUE NOT NULL
+);
+
+ALTER TABLE table_of_books_of_the_bible ADD (
+    book_number INTEGER NOT NULL UNIQUE
+);
+
+CREATE TABLE table_of_chapters (
+    chapter_id   RAW(16) DEFAULT sys_guid() PRIMARY KEY,
+    date_created TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9),
+    date_updated TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9)
+);
+
+CREATE OR REPLACE TRIGGER trigger_for_updating_the_date_updated_column_for_the_table_of_chapters BEFORE
+    UPDATE ON table_of_chapters
+    FOR EACH ROW
+BEGIN
+    :new.date_updated := systimestamp;
+END;
+/
+
+ALTER TABLE table_of_chapters ADD (
+    chapter_number INT NOT NULL
+);
+
+ALTER TABLE table_of_chapters ADD (
+    book_id
+        REFERENCES table_of_books_of_the_bible ( book_id )
+    NOT NULL
+);
+
+ALTER TABLE table_of_chapters ADD (
+    global_chapter_number INT NOT NULL UNIQUE
+);
+
+ALTER TABLE table_of_chapters ADD CONSTRAINT constraint_that_specifies_that_the_combination_of_chapter_and_book_must_be_unique UNIQUE
+( chapter_number,
+                                                                                                                                      book_id
+                                                                                                                                      )
+                                                                                                                                      ;
+
+CREATE TABLE table_of_verses (
+    verse_id     RAW(16) DEFAULT sys_guid() PRIMARY KEY,
+    date_created TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9),
+    date_updated TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9)
+);
+
+CREATE OR REPLACE TRIGGER trigger_for_updating_the_date_updated_column_for_the_table_of_verses_of_chapters_of_books_of_the_bible BEFORE
+    UPDATE ON table_of_verses
+    FOR EACH ROW
+BEGIN
+    :new.date_updated := systimestamp;
+END;
+/
+
+ALTER TABLE table_of_verses ADD (
+    verse_number INT NOT NULL
+);
+
+ALTER TABLE table_of_verses ADD (
+    chapter_id
+        REFERENCES table_of_chapters ( chapter_id )
+    NOT NULL
+);
+
+ALTER TABLE table_of_verses ADD (
+    global_verse_number INT NOT NULL UNIQUE
+);
+
+ALTER TABLE table_of_verses ADD CONSTRAINT constraint_that_specifies_that_the_combination_of_chapter_and_verse_number_must_be_unique UNIQUE
+( chapter_id,
+                                                                                                                                     verse_number
+                                                                                                                                     )
+                                                                                                                                     ;
+
+CREATE TABLE table_of_types_of_verses (
+    type_of_verse_id RAW(16) DEFAULT sys_guid() PRIMARY KEY,
+    date_created     TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9),
+    date_updated     TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9)
+);
+
+CREATE OR REPLACE TRIGGER trigger_for_updating_the_date_updated_column_for_the_table_of_types_of_verses BEFORE
+    UPDATE ON table_of_types_of_verses
+    FOR EACH ROW
+BEGIN
+    :new.date_updated := systimestamp;
+END;
+/
+
+ALTER TABLE table_of_types_of_verses ADD (
+    type_of_verse VARCHAR2(4000) NOT NULL UNIQUE
+);
+
+ALTER TABLE table_of_types_of_verses ADD (
+    description VARCHAR2(4000) UNIQUE
+);
+
+CREATE TABLE table_of_verse_datums (
+    verse_datum_id RAW(16) DEFAULT sys_guid() PRIMARY KEY,
+    date_created   TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9),
+    date_updated   TIMESTAMP(9) WITH TIME ZONE DEFAULT systimestamp(9)
+);
+
+CREATE OR REPLACE TRIGGER trigger_for_updating_the_date_updated_column_for_the_table_of_verse_datums BEFORE
+    UPDATE ON table_of_verse_datums
+    FOR EACH ROW
+BEGIN
+    :new.date_updated := systimestamp;
+END;
+/
+
+ALTER TABLE table_of_verse_datums ADD (
+    verse_id
+        REFERENCES table_of_verses ( verse_id )
+    NOT NULL
+);
+
+ALTER TABLE table_of_verse_datums ADD (
+    type_of_verse_id
+        REFERENCES table_of_types_of_verses ( type_of_verse_id )
+    NOT NULL
+);
+
+ALTER TABLE table_of_verse_datums ADD (
+    data_of_verse_datum VARCHAR2(4000) NOT NULL
+);
+
+ALTER TABLE table_of_verse_datums ADD CONSTRAINT constraint_that_specifies_that_the_combination_of_verse_and_type_of_verse_must_be_unique
+UNIQUE ( type_of_verse_id,
+                                                                                                                                          verse_id
+                                                                                                                                          )
+                                                                                                                                          ;
